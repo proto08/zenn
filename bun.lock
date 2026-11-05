@@ -5,13 +5,13 @@
     "": {
       "name": "zenn",
       "dependencies": {
-        "zenn-cli": "^0.4.6",
+        "zenn-cli": "^0.4.8",
       },
       "devDependencies": {
         "@types/bun": "latest",
       },
       "peerDependencies": {
-        "typescript": "^5",
+        "typescript": "^5.9.3",
       },
     },
   },
